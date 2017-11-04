@@ -1,0 +1,8 @@
+singularity:
+A kinematic singularity is a point within the robot's workspace where the robot's Jacobian matrix loses rank. The Jacobian is the matrix relating joint velocities to end effector velocities.
+
+links:
+https://cosmolearning.org/video-lectures/kinematic-singularity-and-the-jacobian/
+
+https://blog.robotiq.com/why-singularities-can-ruin-your-day
+
